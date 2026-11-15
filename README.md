@@ -5,3 +5,8 @@
     <img alt="Logo" src="./logo-light.svg" width="400">
   </picture>
 </p>
+
+<br />
+<br />
+
+`pwnershot` is a work-in-progress experiment bringing anamorphic 6K RAW video to your Canon EOS M50.
