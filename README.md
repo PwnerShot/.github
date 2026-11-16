@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-[`pwnershot`](https://github.com/PwnerShot/) is a work-in-progress experiment which brings 1080p, 2.8K and anamorphic 6.3K/24 RAW video modes to the Canon EOS M50.
+[`pwnershot`](https://github.com/PwnerShot/) is a work-in-progress experiment on the Canon EOS M50 to record stable RAW video using various binning and anamorphic modes.
 
 ## Credits
 
