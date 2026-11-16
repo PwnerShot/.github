@@ -14,8 +14,8 @@
 
 ## Credits
 
-`pwnershot`’s code is based on [`Magic Lantern`](https://magiclantern.fm). Thanks to the Magic Lantern team and community for their work on Canon camera firmware, reverse engineering, and open-source tools.
+`pwnershot`’s code is based on [Magic Lantern](https://magiclantern.fm). Thanks to the Magic Lantern team and community for their work on Canon camera firmware, reverse engineering, and open-source tools.
 
 ## License
 
-GPL v2, just like [`Magic Lantern`](https://magiclantern.fm). See [LICENSE.md](LICENSE.md).
+GPL v2, just like [Magic Lantern](https://magiclantern.fm). See [LICENSE.md](LICENSE.md).
