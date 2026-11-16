@@ -18,4 +18,4 @@
 
 ## License
 
-`pnwershot` is licensed GPL v2 just like [`Magic Lantern`](https://magiclantern.fm). See [LICENSE.md](LICENSE.md).
+GPL v2, just like [`Magic Lantern`](https://magiclantern.fm). See [LICENSE.md](LICENSE.md).
